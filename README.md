@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<strong> Support: <strong>
+# Support:
   
 <a href="https://www.buymeacoffee.com/jmartsdesign"><img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" width="200"> 
 <!---
