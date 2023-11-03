@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Ohters sites:
 - https://glitch.com/@jmartsdesign
+- https://codepen.io/jmartsdesign
 - https://replit.com/@jmartsdesign
 - https://stackoverflow.com/users/21756425/jmarts-design
 - https://www.codecademy.com/profiles/JMArtsDesign
