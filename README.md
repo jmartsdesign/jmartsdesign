@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 - https://stackoverflow.com/users/21756425/jmarts-design
 - https://www.codecademy.com/profiles/JMArtsDesign
 - https://www.freecodecamp.org/portuguese/JMArtsDesign
+- https://gitlab.com/jmartsdesign
 - https://jmartsdesign.neocities.org/
 - https://glasp.co/jmartsdesign
 
