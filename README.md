@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - https://glasp.co/jmartsdesign
 
 # Support:
-<a href="https://www.buymeacoffee.com/jmartsdesign"><img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" width="200"> 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jmartsdesign)
 ---
 
 <div><h2>Status</h2></div>
