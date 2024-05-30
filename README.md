@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 can reach to me by https://jmartsdesign.github.io/bio-social-link
 
 ### Ohters sites:
+- https://jmartsdesign.gitbook.io/home
 - https://glitch.com/@jmartsdesign
 - https://codepen.io/jmartsdesign
 - https://replit.com/@jmartsdesign
