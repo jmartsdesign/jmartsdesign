@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 - https://www.freecodecamp.org/portuguese/JMArtsDesign
 - https://gitlab.com/jmartsdesign
 - https://jmartsdesign.neocities.org/
+- https://arcade.makecode.com/#
 - https://glasp.co/jmartsdesign
 
 # Support:
