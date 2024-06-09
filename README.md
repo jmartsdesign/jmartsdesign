@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 - https://gitlab.com/jmartsdesign
 - https://jmartsdesign.neocities.org/
 - https://arcade.makecode.com/#
+- https://scratch.mit.edu/users/JMArtsDesign/
 - https://glasp.co/jmartsdesign
 
 # Support:
