@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 - https://scratch.mit.edu/users/JMArtsDesign/
 - www.8thwall.com/jmartsdesign
 - https://huggingface.co/JMArts
+- https://dev.to/jmartsdesign
 - https://glasp.co/jmartsdesign
 
 # Support:
