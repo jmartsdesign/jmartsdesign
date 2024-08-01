@@ -24,11 +24,11 @@ You can click the Preview link to take a look at your changes.
 - https://scratch.mit.edu/users/JMArtsDesign/
 - www.8thwall.com/jmartsdesign
 - https://huggingface.co/JMArts
+- https://gitea.com/jmartsdesign
 - https://app.edublocks.org/jmartsdesign
 - https://glasp.co/jmartsdesign
 - https://theresanaiforthat.com/@jmartsdesign
 - https://dev.to/jmartsdesign
-- https://gitea.com/jmartsdesign
 - https://app.daily.dev/jmartsdesign
 
 # Support:
