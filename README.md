@@ -9,27 +9,9 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 can reach to me by https://jmartsdesign.github.io/bio-social-link
 
-### Ohters sites:
-- https://jmartsdesign.gitbook.io/home
-- https://tree.taiga.io/profile/jmartsdesign
-- https://glitch.com/@jmartsdesign
-- https://codepen.io/jmartsdesign
-- https://replit.com/@jmartsdesign
-- https://stackoverflow.com/users/21756425/jmarts-design
-- https://www.codecademy.com/profiles/JMArtsDesign
-- https://www.freecodecamp.org/portuguese/JMArtsDesign
-- https://gitlab.com/jmartsdesign
-- https://jmartsdesign.neocities.org/
-- https://arcade.makecode.com/#
-- https://scratch.mit.edu/users/JMArtsDesign/
-- www.8thwall.com/jmartsdesign
-- https://huggingface.co/JMArts
-- https://gitea.com/jmartsdesign
-- https://app.edublocks.org/jmartsdesign
-- https://glasp.co/jmartsdesign
-- https://theresanaiforthat.com/@jmartsdesign
-- https://dev.to/jmartsdesign
-- https://app.daily.dev/jmartsdesign
+| DevCard                                                                                                                                                                                	|   	| Ohters sites:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             	|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| <a href="https://app.daily.dev/jmartsdesign"><img src="https://api.daily.dev/devcards/v2/rdAUSkyxWHl85MVFhWYVY.png?type=default&r=wgk" width="356" alt="JMArtsDesign's Dev Card"/></a> 	|   	| - https://jmartsdesign.gitbook.io/home<br>- https://tree.taiga.io/profile/jmartsdesign<br>- https://glitch.com/@jmartsdesign<br>- https://codepen.io/jmartsdesign<br>- https://replit.com/@jmartsdesign<br>- https://stackoverflow.com/users/21756425/jmarts-design<br>- https://www.codecademy.com/profiles/JMArtsDesign<br>- https://www.freecodecamp.org/portuguese/JMArtsDesign<br>- https://gitlab.com/jmartsdesign<br>- https://jmartsdesign.neocities.org/<br>- https://arcade.makecode.com/#<br>- https://scratch.mit.edu/users/JMArtsDesign/<br>- www.8thwall.com/jmartsdesign<br>- https://huggingface.co/JMArts<br>- https://gitea.com/jmartsdesign<br>- https://app.edublocks.org/jmartsdesign<br>- https://glasp.co/jmartsdesign<br>- https://theresanaiforthat.com/@jmartsdesign<br>- https://dev.to/jmartsdesign<br>- https://app.daily.dev/jmartsdesign** 	|
 
 # Support:
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jmartsdesign)
