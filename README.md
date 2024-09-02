@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # About me:
 - 👋 Hi, I’m @jmartsdesign
 - 👀 I’m interested in Generative Art and PenPlotter
-- 🌱 I’m currently learning Processing
+- 🌱 I’m currently learning Processing and A-Frame
 - 💞️ I’m looking to collaborate on ...
 - 📫 can reach to me by https://jmartsdesign.github.io/bio-social-link
 
