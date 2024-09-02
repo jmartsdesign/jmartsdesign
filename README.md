@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # About me:
 - 👋 Hi, I’m @jmartsdesign
-- 👀 I’m interested in Generative Art and PenPlotter
+- Artist and 3D Designer, graphic and teacher in the area of Design/CAD and 3D modeling. He likes generative art and PenPlotter. Always explore new techniques and tools.
 - 🌱 I’m currently learning Processing and A-Frame
 - 💞️ I’m looking to collaborate on ...
 - 📫 can reach to me by https://jmartsdesign.github.io/bio-social-link
