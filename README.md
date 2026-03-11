@@ -23,7 +23,6 @@
 - 💼 I'm currently working on: **💻 Master of Design and Media**
 - 🌱 I'm currently learning: **📚 I’m currently learning Processing and A-Frame**
 - 💬 Ask me about: **💡 Sketchup, Blender, AutoCAD**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 - 📂 Portfolio: **<a href="https://jmartsdesign.github.io/bio-social-link/" target="_blank">https://jmartsdesign.github.io/bio-social-link/</a>**
 - 📝 Blog: **<a href="https://app.daily.dev/squads/jmartsdesign" target="_blank">https://app.daily.dev/squads/jmartsdesign</a>**
 
